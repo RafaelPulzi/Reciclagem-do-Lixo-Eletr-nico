@@ -5,5 +5,3 @@
 - Gabriela Gasparotto
 - Felipe Mariolo
 - Mauricio
-### Segue abaixo as imagens dos codigos do site
-<div></div>
